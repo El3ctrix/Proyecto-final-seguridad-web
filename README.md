@@ -3,6 +3,10 @@
 
 _Implementación de un sitio usando Apache y Drupal_
 
+
+## Enlace al video en YouTube :video_camera: 
+* [Video](https://youtu.be/A5pxG3y9zpA)
+
 ## Comenzando 🚀
 
 _Todos los requisitos se encuentran especificados en el video y en la documentación._
@@ -23,8 +27,4 @@ _A continuacion se muestran las herramientas que se utilizaron para llevar a cab
 _Todos los implicados en la realizacion del proyecto se muestran a continuacion:_
 * **González Durán Erick** - [El3ctrix](https://github.com/El3ctrix)
 * **Salcedo Ramos Carlos Uriel** - [CarlosSRamos](https://github.com/CarlosSRamos)
-
-## Enlace al video en YouTube :video_camera: 
-* [Video](https://youtu.be/A5pxG3y9zpA)
-
 
