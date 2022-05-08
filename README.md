@@ -24,6 +24,7 @@ _Todos los implicados en la realizacion del proyecto se muestran a continuacion:
 * **González Durán Erick** - [El3ctrix](https://github.com/El3ctrix)
 * **Salcedo Ramos Carlos Uriel** - [CarlosSRamos](https://github.com/CarlosSRamos)
 
-
+## Enlace al video en YouTube :video_camera: 
+* [Video](https://youtu.be/A5pxG3y9zpA)
 
 
