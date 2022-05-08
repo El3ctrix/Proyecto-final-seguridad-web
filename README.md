@@ -13,7 +13,7 @@ _A continuacion se muestran las herramientas que se utilizaron para llevar a cab
 
 * [Apache2](https://httpd.apache.org) - Servidor Web
 * [Drupal](https://www.drupal.org) - CMS 
-* [PostgreSQL](https://www.php.net) - Lneguaje utilizado por drupal
+* [PHP](https://www.php.net) - Lenguaje utilizado por drupal
 * [OBS](https://obsproject.com) - Software para grabar la pantalla
 * [Filmora9](https://filmora.wondershare.es) - Software de edición de video
 * [GitHub](https://github.com/) - Controlador de Versiones
